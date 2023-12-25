@@ -59,7 +59,7 @@ I am developing applications in the Swift language<img src="https://media.giphy.
   
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
