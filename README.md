@@ -15,6 +15,7 @@ I am developing applications in the Swift language<img src="https://media.giphy.
 - :telescope: He participated in the student Olympiad IT-Cup 2023, where he successfully took 2nd place🥈.
 
 - :seedling: Completed the iOS-development courses TeachMeSkills!
+   https://drive.google.com/file/d/1LLKppUskSFRRblGIqS6xL6pbVyEYyZJo/view?usp=sharing
 
 - :mailbox: How to contact me:  [![Telegram Badge](https://img.shields.io/badge/-KirillManuilenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KirillManuilenko) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:m.kirill4163@gmail.com)
 
