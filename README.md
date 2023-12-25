@@ -1,24 +1,15 @@
-# Привет, я [Ваше имя]! 👋
+# Hi, my name is Kirill! 👋
 
-## О себе
+---
 
-Я занимаюсь разработкой приложений на языке Swift. Мне нравится создавать пользовательские интерфейсы и решать сложные задачи с помощью Swift. Я тщательно следую лучшим практикам разработки и стремлюсь к постоянному самосовершенствованию.
+### :man_technologist: Обо мне:
 
-## Навыки
+<p align="justify">
+I am developing applications in the Swift language<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I like to create user interfaces and solve complex tasks using Swift. I carefully follow the best development practices. I am constantly improving my skills and following the latest trends in the world of application development. My goal is to create innovative and user-friendly user interfaces to meet the needs of users. I strive for constant self-improvement and am looking for new challenges that can help me expand my professional skills and knowledge.
+</p>
 
-- **Языки программирования:** Swift, Objective-C, C++
-- **Фреймворки и технологии:** UIKit, SwiftUI, Core Data, Alamofire, RxSwift, Git
+- :telescope: He participated in the student Olympiad IT-Cup 2023, where he successfully took 2nd place🥈.
 
-## Проекты
+- :seedling: Completed the iOS-development courses TeachMeSkills!
 
-Ниже приведены некоторые проекты, над которыми я работал:
-
-- [Название проекта 1](ссылка на проект) - Описание проекта 1
-- [Название проекта 2](ссылка на проект) - Описание проекта 2
-
-## Связаться со мной
-
-- GitHub: [Ваше имя](ссылка на GitHub профиль)
-- LinkedIn: [Ваше имя](ссылка на LinkedIn профиль)
-- Email: [Ваш email](mailto:ваш_email@example.com)
-
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KirillManuilenko-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KirillManuilenko) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:m.kirill4163@gmail.com)
